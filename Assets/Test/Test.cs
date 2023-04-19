@@ -6,6 +6,6 @@ public class Test : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("1");
+        Debug.Log("2");
     }
 }
